@@ -30,4 +30,4 @@ The 15 real-world web pages used in the evaluation of XFix can be downloaded [he
 The *reference*, *before*, and *after* versions of the 15 subjects shown to the human study participants can be found [here](https://drive.google.com/open?id=0B5pAs3GeZs4sbFdfWG4wdXdabk0). Open index.html from the subjects folder to navigate through the screenshots. The participant marked (circled) areas of visual differences can be found [here](https://drive.google.com/open?id=0B5pAs3GeZs4sZUZBX2lSRHZLdU0).
 
 ## Questions
-In case of any questions you can email at spmahaja [at] usc {dot} edu
+In case of any questions you can email at halfond [at] usc {dot} edu
