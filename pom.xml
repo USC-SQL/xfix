@@ -79,19 +79,19 @@
 			<version>RELEASE</version>
 		</dependency>
 		
-		<dependency>
+		<!-- <dependency>
 			<groupId>patched-xpert</groupId>
 			<artifactId>patched-xpert</artifactId>
 			<version>1.0.0</version>
-		</dependency>
+		</dependency> -->
 		
 	</dependencies>
 	
-	<repositories>
+	<!-- <repositories>
 		<repository>
 			<id>atlanta.usc.edu</id>
 			<name>atlanta.usc.edu-releases</name>
 			<url>http://atlanta.usc.edu:8081/artifactory/ext-release-local</url>
 		</repository>
-	</repositories>
+	</repositories> -->
 </project>
